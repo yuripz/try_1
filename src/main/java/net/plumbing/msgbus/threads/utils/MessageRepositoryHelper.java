@@ -2,7 +2,6 @@ package net.plumbing.msgbus.threads.utils;
 
 import net.plumbing.msgbus.model.*;
 import org.slf4j.Logger;
-import ru.hermes.msgbus.model.*;
 
 public class MessageRepositoryHelper {
 

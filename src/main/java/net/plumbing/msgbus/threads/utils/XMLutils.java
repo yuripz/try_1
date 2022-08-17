@@ -40,7 +40,6 @@ import javax.xml.validation.Validator;
 
 
 import net.plumbing.msgbus.common.XMLchars;
-import ru.hermes.msgbus.model.*;
 
 public class XMLutils {
 

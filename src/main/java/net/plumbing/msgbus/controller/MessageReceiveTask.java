@@ -24,9 +24,6 @@ import org.slf4j.LoggerFactory;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 import org.slf4j.Logger;
-import ru.hermes.msgbus.model.*;
-// import ru.hermes.msgbus.SenderApplication;
-
 import javax.net.ssl.SSLContext;
 //import javax.xml.xpath.XPathExpressionException;
 import java.io.IOException;
